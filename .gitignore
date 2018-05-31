@@ -3,3 +3,14 @@
 ################################################################################
 
 /base/DesignPatterns/.vs/DesignPatterns/v15
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/01-Abstract Factory（抽象工厂模式）/AbstractFactoryPattern/bin/Debug/netcoreapp2.0
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/01-Abstract Factory（抽象工厂模式）/AbstractFactoryPattern/obj/Debug/netcoreapp2.0
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/01-Abstract Factory（抽象工厂模式）/AbstractFactoryPattern/obj
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/03-Factory Method（工厂模式）/FactoryMethodPattern/bin/Debug/netcoreapp2.0
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/03-Factory Method（工厂模式）/FactoryMethodPattern/obj
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/05-Singleton（单件模式）/SingletionPattern/bin/Debug/netcoreapp2.0
+/base/DesignPatterns/1-Creational Patterns（创建型模式）/05-Singleton（单件模式）/SingletionPattern/obj
+/**/.vs
+**/bin
+**/obj
+**/debug
